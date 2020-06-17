@@ -1,4 +1,6 @@
 
 print("hello world")
-print(" .")
+print("this is my learn session")
+print("git + github")
+
 
